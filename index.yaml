@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cazofeifachart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-07T07:35:36.663512-06:00"
+    description: A Helm chart for Kubernetes
+    digest: a7f406592f4473e2dfaf257e90a8c3cbce12f2d03ca73a892252529209c3de53
+    name: cazofeifachart
+    type: application
+    urls:
+    - charts/cazofeifachart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-07T07:35:36.66256-06:00"
